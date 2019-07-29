@@ -1,0 +1,10 @@
+
+Para fazer uma alteração de minuscula para maiuscula 
+
+$cat alunos.txt | tr a-z A-Z
+
+everton 
+eduardo 
+teste
+fudencio 
+funeria
